@@ -45,7 +45,7 @@
         <junit.version>4.12</junit.version>
         <itext5.version>9.1.6</itext5.version>
         <druid.version>1.0.11</druid.version>
-        <fastjson.version>1.2.8</fastjson.version>
+        <fastjson.version>1.2.25</fastjson.version>
         <freemarker.version>2.3.28</freemarker.version>
         <lombok.version>1.16.4</lombok.version>
 
