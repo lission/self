@@ -1,0 +1,31 @@
+mybatis:
+  mapperLocations: classpath:mapper/*.xml
+  typeAliasesPackage: com.entity
+  config: classpath:/mybatis-config.xml
+#数据源1
+spring:
+  datasource:
+    master:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://192.168.1.62:3306/mimidai?characterEncoding=utf-8
+      username: root
+      password: Mimidai123
+      maxActive: 50
+      maxIdle: 5
+      minIdle: 0
+      initialSize: 0
+      filters: stat,wall,log4j
+      validation-query: select 1
+      test-on-borrow: true
+    #数据源2
+    slave:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://192.168.1.62:3306/mimidai?characterEncoding=utf-8
+      username: root
+      password: Mimidai123
+      maxActive: 50
+      maxIdle: 5
+      minIdle: 0
+      initialSize: 0
+      validation-query: select 1
+      test-on-borrow: true

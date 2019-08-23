@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mulit.dao.AreaMulitDao">
+  <resultMap id="BaseResultMap" type="com.entity.Area">
+    <!--@mbg.generated-->
+    <id column="id" property="id" />
+    <result column="name" property="name" />
+    <result column="parent_id" property="parentId" />
+    <result column="level" property="level" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    <!--@mbg.generated-->
+    id, `name`, parent_id, `level`
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    <!--@mbg.generated-->
+    select 
+    <include refid="Base_Column_List" />
+    from area
+    where id = #{id}
+  </select>
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    <!--@mbg.generated-->
+    delete from area
+    where id = #{id}
+  </delete>
+  <insert id="insert" keyColumn="id" keyProperty="id" parameterType="com.entity.Area" useGeneratedKeys="true">
+    <!--@mbg.generated-->
+    insert into area (`name`, parent_id, `level`)
+    values (#{name}, #{parentId}, #{level})
+  </insert>
+  <insert id="insertSelective" keyColumn="id" keyProperty="id" parameterType="com.entity.Area" useGeneratedKeys="true">
+    <!--@mbg.generated-->
+    insert into area
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="name != null">
+        `name`,
+      </if>
+      <if test="parentId != null">
+        parent_id,
+      </if>
+      <if test="level != null">
+        `level`,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="name != null">
+        #{name},
+      </if>
+      <if test="parentId != null">
+        #{parentId},
+      </if>
+      <if test="level != null">
+        #{level},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="com.entity.Area">
+    <!--@mbg.generated-->
+    update area
+    <set>
+      <if test="name != null">
+        `name` = #{name},
+      </if>
+      <if test="parentId != null">
+        parent_id = #{parentId},
+      </if>
+      <if test="level != null">
+        `level` = #{level},
+      </if>
+    </set>
+    where id = #{id}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="com.entity.Area">
+    <!--@mbg.generated-->
+    update area
+    set `name` = #{name},
+      parent_id = #{parentId},
+      `level` = #{level}
+    where id = #{id}
+  </update>
+</mapper>

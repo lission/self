@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="465bac5c-3257-480d-aa20-a6661f6e3acc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/mulitDemo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mimidai@192.168.1.62" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mimidai@192.168.1.62" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mimidai@192.168.1.62" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mimidai: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mimidai@192.168.1.62" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mimidai: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="area: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.11/druid-1.0.11-sources.jar!/com/alibaba/druid/pool/DruidDataSourceFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="185" selection-start-line="185" selection-end-line="185" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceRegister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="133" column="71" selection-start-line="133" selection-start-column="71" selection-end-line="133" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceContextHolder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mulitDemo/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Kotlin File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user_info_check</find>
+      <find>l</find>
+      <find>slf4j</find>
+      <find>DateUtils</find>
+      <find>lang3</find>
+      <find>fastjson</find>
+      <find>dom4j</find>
+      <find>http</find>
+      <find>Gson</find>
+      <find>bouncycastle</find>
+      <find>itextpdf</find>
+      <find>JUNIT</find>
+      <find>xhtmlrenderer</find>
+      <find>druid</find>
+      <find>freemarker</find>
+      <find>MaFuxin</find>
+      <find>lombok</find>
+      <find>junit</find>
+      <find>inheritedJdk</find>
+      <find>java.version</find>
+      <find>basePackages</find>
+      <find>java.lang.ClassNotFoundException</find>
+      <find>mybati</find>
+      <find>classpath</find>
+      <find>getProperty</find>
+      <find>binder</find>
+      <find>RelaxeddefauleDataSourceProperties</find>
+      <find>GsonBuilder</find>
+      <find>gson</find>
+      <find>myba</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>get</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/src/main/java/utils/DateUtils.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/testTemp/DateTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/testTemp/DataTest.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/utils/PdfUtils.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/utils/XMLUtils.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/entity/jsonToJavaTest.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/entity/JsonTest.java" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/testTemp/StringTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/dao/ActivityMapper.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/service/ActivityService.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/config/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/SelfApplication.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/config/SelfApplication.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/designPattern/DecoratorTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/config/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/testTemp/HttpTest.java" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/Controller/MyTestController.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/dao/AdvertDao.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/entity/Advert.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/SelfApplication.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceContextHolder.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSource.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/testTemp/StringTest.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/TargetDataSource.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceAspect.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/service/AreaService.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/dao/ActivityMulitDao.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/dao/AdvertMulitDao.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/dao/AreaMulitDao.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/ServletInitializer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/mapper/AdvertMapper.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/mapper/ActivityMapper.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/mapper/AreaMapper.xml" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/service/AdvertService.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/service/ActivityService.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/AreaMulitDao.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/AreaMulitDao.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/service/AdvertService.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/AreaMulitDao.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/AdvertMulitDao.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/ActivityMulitDao.java" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceRegister.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mulitDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-196" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566541041305" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mimidai/mimidai-operator-report" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.45172414" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\IdeaProjects\self\common\src\main\java\utils" />
+      <recent name="D:\project\IdeaProjects\self\common\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com" />
+      <recent name="com.config.datasource" />
+      <recent name="config" />
+      <recent name="designPattern" />
+      <recent name="annotation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\IdeaProjects\self\mulitDemo\src\main\resources" />
+      <recent name="D:\project\IdeaProjects\self" />
+      <recent name="D:\project\IdeaProjects\self\demo\src\main\resources" />
+      <recent name="D:\project\IdeaProjects\self\demo\src\main\java" />
+      <recent name="D:\project\IdeaProjects\self\src\main\java\prictice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MulitApplication">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testTemp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="testTemp" />
+      <option name="MAIN_CLASS_NAME" value="testTemp.StringTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.mysqlPassword (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testTemp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="com.testTemp" />
+      <option name="MAIN_CLASS_NAME" value="com.testTemp.StringTest" />
+      <option name="METHOD_NAME" value="mysqlPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.mysqlPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="self" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testTemp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="testTemp" />
+      <option name="MAIN_CLASS_NAME" value="testTemp.StringTest" />
+      <option name="METHOD_NAME" value="mysqlPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="self" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MulitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mulitDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mulit.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.MulitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelfApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="config.SelfApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelfApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.SelfApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.StringTest.mysqlPassword" />
+      <item itemvalue="JUnit.StringTest" />
+      <item itemvalue="JUnit.StringTest.mysqlPassword (1)" />
+      <item itemvalue="Spring Boot.SelfApplication" />
+      <item itemvalue="Spring Boot.MulitApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MulitApplication" />
+        <item itemvalue="JUnit.StringTest.mysqlPassword (1)" />
+        <item itemvalue="Spring Boot.SelfApplication" />
+        <item itemvalue="JUnit.StringTest" />
+        <item itemvalue="JUnit.StringTest.mysqlPassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="465bac5c-3257-480d-aa20-a6661f6e3acc" name="Default" comment="" />
+      <created>1527675070889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527675070889</updated>
+      <workItem from="1527675073021" duration="2417000" />
+      <workItem from="1527732548007" duration="2487000" />
+      <workItem from="1528451138453" duration="1122000" />
+      <workItem from="1529478911347" duration="3154000" />
+      <workItem from="1529545015477" duration="2005000" />
+      <workItem from="1529581257712" duration="844000" />
+      <workItem from="1529631727121" duration="2538000" />
+      <workItem from="1530259206197" duration="3634000" />
+      <workItem from="1530779546870" duration="1937000" />
+      <workItem from="1530846205843" duration="1368000" />
+      <workItem from="1531106145562" duration="821000" />
+      <workItem from="1531191571885" duration="709000" />
+      <workItem from="1531273778386" duration="3426000" />
+      <workItem from="1531360487444" duration="626000" />
+      <workItem from="1531445101628" duration="712000" />
+      <workItem from="1532501957114" duration="11348000" />
+      <workItem from="1532588129827" duration="11866000" />
+      <workItem from="1532654480703" duration="5190000" />
+      <workItem from="1532660576541" duration="193000" />
+      <workItem from="1532660862639" duration="13993000" />
+      <workItem from="1532915199437" duration="9182000" />
+      <workItem from="1533133413982" duration="2689000" />
+      <workItem from="1533279683502" duration="1264000" />
+      <workItem from="1533345318036" duration="1792000" />
+      <workItem from="1533518855467" duration="3624000" />
+      <workItem from="1533606511711" duration="2022000" />
+      <workItem from="1533692735140" duration="1910000" />
+      <workItem from="1533780247490" duration="1196000" />
+      <workItem from="1533785100815" duration="1237000" />
+      <workItem from="1533865098136" duration="592000" />
+      <workItem from="1534125574087" duration="2175000" />
+      <workItem from="1534211479164" duration="594000" />
+      <workItem from="1534298327346" duration="5342000" />
+      <workItem from="1534383821473" duration="1968000" />
+      <workItem from="1534401060933" duration="778000" />
+      <workItem from="1534472024368" duration="6499000" />
+      <workItem from="1534916936676" duration="2064000" />
+      <workItem from="1534988566227" duration="657000" />
+      <workItem from="1535074290031" duration="599000" />
+      <workItem from="1535335205807" duration="2346000" />
+      <workItem from="1536120053815" duration="10353000" />
+      <workItem from="1536203835982" duration="8371000" />
+      <workItem from="1536315962024" duration="131000" />
+      <workItem from="1536560976896" duration="1861000" />
+      <workItem from="1536577158510" duration="3000" />
+      <workItem from="1536630742394" duration="1493000" />
+      <workItem from="1536807496832" duration="2942000" />
+      <workItem from="1537153128697" duration="2056000" />
+      <workItem from="1537238887360" duration="593000" />
+      <workItem from="1537321398819" duration="682000" />
+      <workItem from="1538028290665" duration="3237000" />
+      <workItem from="1538098656498" duration="2305000" />
+      <workItem from="1538217061729" duration="818000" />
+      <workItem from="1538270483686" duration="1785000" />
+      <workItem from="1540259108135" duration="618000" />
+      <workItem from="1540281983386" duration="589000" />
+      <workItem from="1540433225710" duration="3819000" />
+      <workItem from="1540536420087" duration="1859000" />
+      <workItem from="1540621344809" duration="665000" />
+      <workItem from="1540706034948" duration="473000" />
+      <workItem from="1540777549588" duration="1171000" />
+      <workItem from="1541467725274" duration="4882000" />
+      <workItem from="1541583471797" duration="7466000" />
+      <workItem from="1541727134843" duration="1296000" />
+      <workItem from="1541986611482" duration="2369000" />
+      <workItem from="1542072820600" duration="592000" />
+      <workItem from="1542160235945" duration="1256000" />
+      <workItem from="1542245892555" duration="1197000" />
+      <workItem from="1542332878683" duration="2591000" />
+      <workItem from="1542357081894" duration="613000" />
+      <workItem from="1542594317089" duration="606000" />
+      <workItem from="1542691745092" duration="2364000" />
+      <workItem from="1542786862245" duration="699000" />
+      <workItem from="1542867277553" duration="991000" />
+      <workItem from="1542938861924" duration="8224000" />
+      <workItem from="1543113460179" duration="1383000" />
+      <workItem from="1543286472155" duration="616000" />
+      <workItem from="1543292219094" duration="90000" />
+      <workItem from="1543304187127" duration="751000" />
+      <workItem from="1543305030909" duration="2020000" />
+      <workItem from="1543388646607" duration="1595000" />
+      <workItem from="1543480607147" duration="649000" />
+      <workItem from="1543540534593" duration="367000" />
+      <workItem from="1543540973255" duration="327000" />
+      <workItem from="1543541360844" duration="49000" />
+      <workItem from="1543541485444" duration="8119000" />
+      <workItem from="1543587370901" duration="289000" />
+      <workItem from="1544091251866" duration="1116000" />
+      <workItem from="1544150347983" duration="596000" />
+      <workItem from="1544406239020" duration="5334000" />
+      <workItem from="1544495521114" duration="5025000" />
+      <workItem from="1544578304430" duration="2427000" />
+      <workItem from="1544665064395" duration="2567000" />
+      <workItem from="1544750531276" duration="2649000" />
+      <workItem from="1545011589833" duration="783000" />
+      <workItem from="1545097627800" duration="1193000" />
+      <workItem from="1545183818725" duration="1346000" />
+      <workItem from="1545269708654" duration="577000" />
+      <workItem from="1545379286061" duration="2968000" />
+      <workItem from="1546307671268" duration="2683000" />
+      <workItem from="1546393231636" duration="2220000" />
+      <workItem from="1546424447294" duration="589000" />
+      <workItem from="1546479223417" duration="1487000" />
+      <workItem from="1546566236455" duration="585000" />
+      <workItem from="1546825237247" duration="2878000" />
+      <workItem from="1546911712673" duration="584000" />
+      <workItem from="1546997840721" duration="2573000" />
+      <workItem from="1547084283415" duration="568000" />
+      <workItem from="1547171079762" duration="1076000" />
+      <workItem from="1547195547831" duration="875000" />
+      <workItem from="1547257156883" duration="598000" />
+      <workItem from="1547430759953" duration="595000" />
+      <workItem from="1548036934101" duration="597000" />
+      <workItem from="1548222437617" duration="2021000" />
+      <workItem from="1548294394773" duration="1371000" />
+      <workItem from="1548380855149" duration="601000" />
+      <workItem from="1548900070753" duration="1845000" />
+      <workItem from="1548985565529" duration="1392000" />
+      <workItem from="1549072548755" duration="1290000" />
+      <workItem from="1549157592639" duration="599000" />
+      <workItem from="1549278999070" duration="610000" />
+      <workItem from="1549850836750" duration="3540000" />
+      <workItem from="1549937068573" duration="1887000" />
+      <workItem from="1549941379678" duration="4037000" />
+      <workItem from="1550025650000" duration="2155000" />
+      <workItem from="1550108998467" duration="1202000" />
+      <workItem from="1550217128722" duration="660000" />
+      <workItem from="1550220952411" duration="628000" />
+      <workItem from="1550280847519" duration="594000" />
+      <workItem from="1550540642294" duration="584000" />
+      <workItem from="1551259458310" duration="3466000" />
+      <workItem from="1551318502787" duration="1259000" />
+      <workItem from="1551405197105" duration="595000" />
+      <workItem from="1551493545013" duration="803000" />
+      <workItem from="1552025171343" duration="6158000" />
+      <workItem from="1552556471552" duration="2024000" />
+      <workItem from="1552615228694" duration="593000" />
+      <workItem from="1552966008985" duration="1753000" />
+      <workItem from="1553048127818" duration="594000" />
+      <workItem from="1553132119704" duration="2388000" />
+      <workItem from="1553502244757" duration="916000" />
+      <workItem from="1553564568484" duration="6380000" />
+      <workItem from="1553653642367" duration="4068000" />
+      <workItem from="1553743557918" duration="638000" />
+      <workItem from="1553840009089" duration="1187000" />
+      <workItem from="1554087528817" duration="1409000" />
+      <workItem from="1554113318932" duration="595000" />
+      <workItem from="1554175820131" duration="4192000" />
+      <workItem from="1554371637086" duration="752000" />
+      <workItem from="1554775647744" duration="598000" />
+      <workItem from="1554814026736" duration="1850000" />
+      <workItem from="1555396701757" duration="3833000" />
+      <workItem from="1555482721871" duration="719000" />
+      <workItem from="1555551963161" duration="1952000" />
+      <workItem from="1555988364382" duration="718000" />
+      <workItem from="1556177530805" duration="665000" />
+      <workItem from="1556517415808" duration="3000000" />
+      <workItem from="1556591434292" duration="1546000" />
+      <workItem from="1556886934636" duration="701000" />
+      <workItem from="1557020371147" duration="3056000" />
+      <workItem from="1557051307619" duration="1015000" />
+      <workItem from="1557108645219" duration="3112000" />
+      <workItem from="1557195089881" duration="596000" />
+      <workItem from="1557283677199" duration="5597000" />
+      <workItem from="1557323621151" duration="903000" />
+      <workItem from="1557399419713" duration="663000" />
+      <workItem from="1557800160629" duration="4370000" />
+      <workItem from="1557889888812" duration="2032000" />
+      <workItem from="1557924828353" duration="2784000" />
+      <workItem from="1557970554284" duration="10945000" />
+      <workItem from="1558057059119" duration="2894000" />
+      <workItem from="1558150894301" duration="689000" />
+      <workItem from="1558317422943" duration="6286000" />
+      <workItem from="1558407447877" duration="4026000" />
+      <workItem from="1558443062444" duration="2315000" />
+      <workItem from="1558496330133" duration="1792000" />
+      <workItem from="1558529069801" duration="2822000" />
+      <workItem from="1558579486684" duration="7460000" />
+      <workItem from="1558661090116" duration="1256000" />
+      <workItem from="1558770863163" duration="11000" />
+      <workItem from="1558770938383" duration="2311000" />
+      <workItem from="1558923039790" duration="2975000" />
+      <workItem from="1559007585882" duration="7888000" />
+      <workItem from="1559095000084" duration="1362000" />
+      <workItem from="1559181223349" duration="9229000" />
+      <workItem from="1559221035924" duration="1201000" />
+      <workItem from="1559268610504" duration="3063000" />
+      <workItem from="1559461360747" duration="2738000" />
+      <workItem from="1559527710074" duration="7728000" />
+      <workItem from="1559615614824" duration="4740000" />
+      <workItem from="1559701107376" duration="2941000" />
+      <workItem from="1559704199602" duration="5736000" />
+      <workItem from="1559789051982" duration="2254000" />
+      <workItem from="1559895177218" duration="4123000" />
+      <workItem from="1559981973645" duration="2526000" />
+      <workItem from="1560046634965" duration="2551000" />
+      <workItem from="1560129931948" duration="4718000" />
+      <workItem from="1560232390820" duration="2070000" />
+      <workItem from="1560303382731" duration="14959000" />
+      <workItem from="1560392166238" duration="2188000" />
+      <workItem from="1560478371743" duration="8984000" />
+      <workItem from="1560560795689" duration="4778000" />
+      <workItem from="1560672922309" duration="2147000" />
+      <workItem from="1560735325665" duration="13251000" />
+      <workItem from="1560823948049" duration="9233000" />
+      <workItem from="1561080658580" duration="1745000" />
+      <workItem from="1561205581797" duration="2055000" />
+      <workItem from="1561255553120" duration="3535000" />
+      <workItem from="1561341593472" duration="9614000" />
+      <workItem from="1561426151738" duration="1870000" />
+      <workItem from="1561512288802" duration="8176000" />
+      <workItem from="1561608125665" duration="4810000" />
+      <workItem from="1561712501469" duration="658000" />
+      <workItem from="1561863879143" duration="2636000" />
+      <workItem from="1561964882963" duration="15615000" />
+      <workItem from="1562207084759" duration="797000" />
+      <workItem from="1562383851840" duration="1530000" />
+      <workItem from="1562501835287" duration="2544000" />
+      <workItem from="1562549198550" duration="591000" />
+      <workItem from="1562661860780" duration="677000" />
+      <workItem from="1562911787285" duration="4096000" />
+      <workItem from="1563243331284" duration="1240000" />
+      <workItem from="1563432505441" duration="907000" />
+      <workItem from="1563876667182" duration="2385000" />
+      <workItem from="1565685167487" duration="3717000" />
+      <workItem from="1565689007929" duration="139000" />
+      <workItem from="1565689185833" duration="796000" />
+      <workItem from="1565689996943" duration="54000" />
+      <workItem from="1565690193761" duration="5679000" />
+      <workItem from="1565753949301" duration="590000" />
+      <workItem from="1565763042019" duration="11131000" />
+      <workItem from="1565834601263" duration="17041000" />
+      <workItem from="1566184355639" duration="576000" />
+      <workItem from="1566272763716" duration="4522000" />
+      <workItem from="1566382763783" duration="431000" />
+      <workItem from="1566439991971" duration="8634000" />
+      <workItem from="1566532323573" duration="2765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StringTest_splitTest - 2019.08.14 at 15h 02m 56s.xml">
+      <configuration name="StringTest.splitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_splitTest - 2019.08.14 at 15h 05m 45s.xml">
+      <configuration name="StringTest.splitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_mysqlPassword - 2019.08.14 at 15h 10m 42s.xml">
+      <configuration name="StringTest.mysqlPassword" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_mysqlPassword - 2019.08.14 at 15h 11m 47s.xml">
+      <configuration name="StringTest.mysqlPassword" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_splitTest - 2019.08.14 at 15h 12m 44s.xml">
+      <configuration name="StringTest.splitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest - 2019.08.14 at 15h 13m 43s.xml">
+      <configuration name="StringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_splitTest - 2019.08.14 at 15h 13m 54s.xml">
+      <configuration name="StringTest.splitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_mysqlPassword - 2019.08.14 at 16h 16m 03s.xml">
+      <configuration name="StringTest.mysqlPassword" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest - 2019.08.14 at 16h 16m 16s.xml">
+      <configuration name="StringTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringTest_mysqlPassword_(1) - 2019.08.20 at 11h 48m 34s.xml">
+      <configuration name="StringTest.mysqlPassword (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="652876000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-196" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24106666" />
+      <window_info id="Structure" order="1" weight="0.24962178" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32781458" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7560706" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6699779" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289183" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32781458" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.30573952" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="14" weight="0.3388521" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="15" visible="true" weight="0.5" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="16" weight="0.3290461" />
+      <window_info anchor="bottom" id="Spring" order="17" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="18" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2496" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3296" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.3296" />
+      <window_info anchor="right" id="Key Promoter X" order="10" weight="0.3296" />
+      <window_info anchor="right" id="Code Iris" order="11" weight="0.4592" />
+      <window_info anchor="right" id="Mybatis datasource" order="12" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/testTemp/JsonTest.java</url>
+          <line>150</line>
+          <properties class="testTemp.JsonTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/htmlTempleToPdf/PdfUtils.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/Json2MapUtils.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/Json2MapUtils.java</url>
+          <line>209</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testTemp/MathTest.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testTemp/MathTest.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/testTemp/DateTest.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceRegister.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/DecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-379">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/collectionTest/CollectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/testTemp/HttpTest.java" />
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/Controller/MyTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/dao/AdvertDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/service/AdvertService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="34" column="36" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/entity/Advert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/testTemp/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/dao/ActivityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10912">
+          <caret line="550" selection-start-line="550" selection-end-line="550" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/context/properties/bind/BindResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/ServletInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/TargetDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/mapper/AdvertMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5830">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/mapper/ActivityMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/mapper/AreaMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/dao/AreaDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/service/AreaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/SelfApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/service/AdvertService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/service/AreaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/service/ActivityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/mapper/ActivityMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/AreaMulitDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" selection-start-line="12" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/mapper/AreaMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/mapper/AdvertMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/AdvertMulitDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/ActivityMulitDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/WebApplicationType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar!/org/springframework/util/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar!/org/springframework/util/ClassUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="770" selection-start-line="770" selection-end-line="770" />
+          <folding>
+            <element signature="e#4909#4910#0" expanded="true" />
+            <element signature="e#4967#4968#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.11/druid-1.0.11-sources.jar!/com/alibaba/druid/pool/DruidDataSourceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceContextHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="133" column="71" selection-start-line="133" selection-start-column="71" selection-end-line="133" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45172414" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45172414" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45172414" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45172414" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45172414" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45172414" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45172414" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
