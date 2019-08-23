@@ -61,7 +61,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
+            <state relative-caret-position="523">
               <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -313,7 +313,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566541041305" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566541235308" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mimidai/mimidai-operator-report" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -760,7 +760,7 @@
       <workItem from="1566272763716" duration="4522000" />
       <workItem from="1566382763783" duration="431000" />
       <workItem from="1566439991971" duration="8634000" />
-      <workItem from="1566532323573" duration="2765000" />
+      <workItem from="1566532323573" duration="2963000" />
     </task>
     <servers />
   </component>
@@ -797,7 +797,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="652876000" />
+    <option name="totallyTimeSpent" value="653074000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -821,14 +821,14 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32781458" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7560706" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7560706" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6699779" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289183" />
       <window_info anchor="bottom" id="Tail" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32781458" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32781458" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.30573952" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -1304,7 +1304,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
+        <state relative-caret-position="523">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
