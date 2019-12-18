@@ -860,4 +860,10 @@ public class DateUtils {
 
 
     }
+
+    public static boolean sameMonth(Date d1, Date d2){
+        SimpleDateFormat fmt = new SimpleDateFormat("yyyyMM");
+        //fmt.setTimeZone(new TimeZone()); // 如果需要设置时间区域，可以在这里设置
+        return fmt.format(d1).equals(fmt.format(d2));
+    }
 }

@@ -33,4 +33,17 @@ public class BigDecimalTest {
         }
         System.out.println(manageFee.compareTo(new BigDecimal(10)));
     }
+
+    @Test
+    public void divideTest(){
+        BigDecimal number = new BigDecimal(10.0);
+        if (new BigDecimal(number.intValue()).compareTo(number)==0){
+            //整数
+            System.out.println(String.valueOf(number.intValue()));
+        }else {
+            //小数
+            System.out.println("小数");
+        }
+    }
+
 }

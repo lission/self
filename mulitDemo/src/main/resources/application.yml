@@ -7,9 +7,9 @@ spring:
   datasource:
     master:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://192.168.1.62:3306/mimidai?characterEncoding=utf-8
-      username: root
-      password: Mimidai123
+      url:
+      username:
+      password:
       maxActive: 50
       maxIdle: 5
       minIdle: 0
@@ -20,9 +20,9 @@ spring:
     #数据源2
     slave:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://192.168.1.62:3306/mimidai?characterEncoding=utf-8
-      username: root
-      password: Mimidai123
+      url:
+      username:
+      password:
       maxActive: 50
       maxIdle: 5
       minIdle: 0

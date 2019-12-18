@@ -9,6 +9,8 @@ import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 /**
  * @author lisong@mimidai.com
@@ -16,22 +18,15 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 @MapperScan(basePackages = "com.mulit.dao")
-public class SelfApplication implements InitializingBean {
+public class SelfApplication extends SpringBootServletInitializer {
     private static final Logger logger = LoggerFactory.getLogger(SelfApplication.class);
+    @Override
+    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+        return application.sources(SelfApplication.class);
+    }
+    
     public static void main(String[] args) {
         SpringApplication.run(SelfApplication.class, args);
-        logger.info("Springboot SelfApplication started!");
-    }
-
-    @Autowired
-    private AdvertService advertService;
-
-    @Override
-    public void afterPropertiesSet() throws Exception {
-        logger.info("开始============");
-        Advert advert = advertService.selectByPrimaryKey(2);
-        logger.info("{}",advert.toString());
-        logger.info("结束============");
-
+        logger.info("Springboot Application [demo] started!");
     }
 }

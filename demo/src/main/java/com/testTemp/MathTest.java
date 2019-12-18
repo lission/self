@@ -13,10 +13,9 @@ import java.util.List;
 public class MathTest {
     @Test
     public void divisionTest(){
-        int j = 9000;
-        int size = 1;
-        System.out.println(j/size);//取整
-        System.out.println(j%size);//取余
+        int j = 7;
+        System.out.println(j/2);
+        System.out.println((int) Math.floor(j/2));
     }
 
     @Test
@@ -69,7 +68,7 @@ public class MathTest {
      * */
     @Test
     public void bigdecimalTest(){
-        BigDecimal bigDecimal = new BigDecimal("1600");
+        BigDecimal bigDecimal = new BigDecimal("500");
         BigDecimal fine = computeFeeByDays(1,0.0075,bigDecimal);
         System.out.println(fine);
     }
@@ -107,16 +106,53 @@ public class MathTest {
     }
 
 
+
+
+    @Test
+    public void divdeTest(){
+        int decimal = 4;
+        if (decimal %2 == 0){
+            System.out.println(1);
+        }else {
+            System.out.println(2);
+        }
+    }
     /**
      * 位运算测试
      * size >> 1
      * */
     @Test
     public void test(){
-        Integer i = 9;
-        Integer j = 3;
-        System.out.println(i.compareTo(j));
+        int n = 999;
+        System.out.println(Integer.toBinaryString(n));
+
+        int p = solution(n);
+        System.out.println(p);
     }
 
+    public int solution(int n) {
+        int[] d = new int[Integer.toBinaryString(n).length()];
+        int l = 0;
+        int p;
+        while (n > 0) {
+            d[l] = n % 2;
+            n /= 2;
+            l++;
+        }
+        for (p = 1; p < 1 + l; ++p) {
+            int i;
+            boolean ok = true;
+            for (i = 0; i < l - p; ++i) {
+                if (d[i] != d[i + p]) {
+                    ok = false;
+                    break;
+                }
+            }
+            if (ok) {
+                return i;
+            }
+        }
+        return -1;
+    }
 
 }

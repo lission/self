@@ -3,8 +3,448 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/demo/src/main/java/com/testTemp/BigDecimalTest.java" line="41" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="465bac5c-3257-480d-aa20-a6661f6e3acc" name="Default" comment="" />
+    <list default="true" id="465bac5c-3257-480d-aa20-a6661f6e3acc" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_openservices_ons_client_1_8_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_3_BUILD_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/utils/HttpClientUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/utils/Httprequests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/utils/SerializableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/Controller/InterviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/Interview/CallableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/Interview/CallableTestSynchrinize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/Service/DisCountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/arithmetic/LruCaceDemoLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/arithmetic/LruLinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/arithmetic/SortedAirthmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/BreakSinglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/DubleCheckSinglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/EnumSinglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/HungrySinglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/LockSinglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/NormalLazySinglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/StaticInnerClassSinglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/BabyGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/entity/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/leetcode/Solution191030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/leetcode/Solution191101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/leetcode/Solution191104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/leetcode/Solution191105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/leetcode/Solution191108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/CodingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/DisplacementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/WechatTets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/thread/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ExecutorServiceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ForLoopCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ForkJoinPoolCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/StreamCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/DeadDayTestTwelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/ElevenTwentySeven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/ElevenTwentyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/ForkJoinPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/LambdaThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/MyArrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/MyLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/ThreadLocalWeakTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/Twelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/main/java/daytest/TwelveFore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/src/test/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common/common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/utils/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/classes/utils/DateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/classes/utils/DateUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/SelfApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/SelfApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/mulit/service/AdvertService.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/mulit/service/AdvertService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/BigDecimalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/BigDecimalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/ListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/ListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/MathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/MathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/testTemp/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/SelfApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/SelfApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/annotation/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/annotation/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/annotation/Banana.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/annotation/Banana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/annotation/FruitInfoUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/annotation/FruitInfoUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/annotation/FruitRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/annotation/FruitRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/collectionTest/CollectionTest$ArrayListRandomAccessTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/collectionTest/CollectionTest$ArrayListRandomAccessTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/collectionTest/Fail.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/collectionTest/Fail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/collectionTest/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/collectionTest/Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/collectionTest/WeekDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/collectionTest/WeekDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/config/KjtEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/config/KjtEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/AdapterTest$Adaptee.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/AdapterTest$Adaptee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/AdapterTest$ClassAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/AdapterTest$ClassAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/AdapterTest$ObjectAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/AdapterTest$ObjectAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BridgeTest$Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BridgeTest$Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BridgeTest$ConcreteImplementorA.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BridgeTest$ConcreteImplementorA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BridgeTest$RefinedAbstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BridgeTest$RefinedAbstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BuilderTest$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BuilderTest$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BuilderTest$ConcrectBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BuilderTest$ConcrectBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BuilderTest$Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BuilderTest$Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BuilderTest$Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/BuilderTest$Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ChainOfResponsibilityTest$ConcreteHandle1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ChainOfResponsibilityTest$ConcreteHandle1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ChainOfResponsibilityTest$ConcreteHandle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ChainOfResponsibilityTest$ConcreteHandle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ChainOfResponsibilityTest$Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ChainOfResponsibilityTest$Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CommandTest$ConcreteCommand1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CommandTest$ConcreteCommand1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CommandTest$Invoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CommandTest$Invoker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CommandTest$Receiver1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CommandTest$Receiver1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeSafeTest$Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeSafeTest$Composite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeSafeTest$Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeSafeTest$Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeTest$Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeTest$Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeTest$Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeTest$Composite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeTest$Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/CompositeTest$Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/DecoratorTest$ConcreteComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/DecoratorTest$ConcreteComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/DecoratorTest$ConcreteDecorator1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/DecoratorTest$ConcreteDecorator1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/DecoratorTest$Decorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/DecoratorTest$Decorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/DesignTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/DesignTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$Facade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$SubSystem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$SubSystem1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$SubSystem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$SubSystem2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$SubSystem3.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FacadeTest$SubSystem3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest$DetailFactory1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest$DetailFactory1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest$DetailFactory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest$DetailFactory2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest$DetailProduct1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest$DetailProduct1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest$DetailProduct2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest$DetailProduct2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FactoryMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$ConcrectFlyweight1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$ConcrectFlyweight1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$ConcrectFlyweight2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$ConcrectFlyweight2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$Flyweight.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$Flyweight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$FlyweightFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$FlyweightFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$UnsharedConcrectFlyweight.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/FlyweightTest$UnsharedConcrectFlyweight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/InterpretTest$AbstractExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/InterpretTest$AbstractExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/InterpretTest$Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/InterpretTest$Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/InterpretTest$NonterminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/InterpretTest$NonterminalExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/IteratorTest$Aggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/IteratorTest$Aggregate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/IteratorTest$ConcreteAggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/IteratorTest$ConcreteAggregate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/IteratorTest$ConcreteIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/IteratorTest$ConcreteIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$Colleague.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$Colleague.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$ConcreteColleague1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$ConcreteColleague1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$ConcreteColleague2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$ConcreteColleague2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$ConcreteMediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$ConcreteMediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$Mediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MediatorTest$Mediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MementoTest$Caretaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MementoTest$Caretaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MementoTest$Memento.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MementoTest$Memento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MementoTest$Originator.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/MementoTest$Originator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ObserveTest$ConcreteObserver1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ObserveTest$ConcreteObserver1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ObserveTest$ConcreteObserver2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ObserveTest$ConcreteObserver2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ObserveTest$ConcreteSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ObserveTest$ConcreteSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ObserveTest$Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ObserveTest$Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ProtoTypeTest$Realizetype.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ProtoTypeTest$Realizetype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ProxyTest$Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ProxyTest$Proxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ProxyTest$RealSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ProxyTest$RealSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/ProxyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StateTest$ConcreteStateA.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StateTest$ConcreteStateA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StateTest$ConcreteStateB.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StateTest$ConcreteStateB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StateTest$Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StateTest$Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StateTest$State.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StateTest$State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StrategyTest$ConcreteStrategy1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StrategyTest$ConcreteStrategy1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StrategyTest$ConcreteStrategy2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StrategyTest$ConcreteStrategy2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StrategyTest$Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/StrategyTest$Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/TemplateMethodTest$AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/TemplateMethodTest$AbstractClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/TemplateMethodTest$ConcrectClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/TemplateMethodTest$ConcrectClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$ConcreteElement1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$ConcreteElement1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$ConcreteElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$ConcreteElement2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$ConcreteVisitor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$ConcreteVisitor1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$ObjectStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$ObjectStructure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/designPattern/VisitorTest$Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/entity/Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/entity/Activity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/entity/Advert.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/entity/Advert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/entity/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/entity/Area.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/entity/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/entity/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/entity/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/entity/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/htmlTempleToPdf/HtmlGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/htmlTempleToPdf/HtmlGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/htmlTempleToPdf/HtmlToPdf.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/htmlTempleToPdf/HtmlToPdf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/htmlTempleToPdf/NewHtmlToPdf.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/htmlTempleToPdf/NewHtmlToPdf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/htmlTempleToPdf/NewHtmlToPdfBak.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/htmlTempleToPdf/NewHtmlToPdfBak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/mulit/dao/ActivityDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/mulit/dao/ActivityDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/mulit/dao/AdvertDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/mulit/dao/AdvertDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/mulit/dao/AreaDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/mulit/dao/AreaDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/mulit/service/ActivityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/mulit/service/ActivityService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/mulit/service/AdvertService.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/mulit/service/AdvertService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/mulit/service/AreaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/mulit/service/AreaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/BlackPieces.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/BlackPieces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/ChessBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/ChessBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/ChessPieces.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/ChessPieces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/DataAndMathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/DataAndMathTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/FivePieces.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/FivePieces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/PiecesFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/PiecesFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/PricticeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/PricticeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/UseSubsetMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/UseSubsetMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/prictice/WhitePieces.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/prictice/WhitePieces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/BigDecimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/BigDecimalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/DateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/DateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/DeaultClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/DeaultClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/IntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/IntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/JsonTest$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/JsonTest$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/JsonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/JsonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/MathTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/RadomTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/RadomTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/TerminalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/TerminalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/ThreadTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/ThreadTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/testTemp/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/testTemp/ThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/CarWash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/EnumTestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/EnumTestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Enums.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Enums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Food$Appetizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Food$Appetizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Food$Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Food$Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Food$Dessert.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Food$Dessert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Food$MainCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Food$MainCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Meal.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/Meal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/TypeOfFood.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/eunmTest/TypeOfFood.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/genericity/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thinkinjava/genericity/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thread/CyclicTest$Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thread/CyclicTest$Writer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thread/CyclicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thread/CyclicTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thread/MyCallableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thread/MyCallableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thread/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thread/MyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thread/MythreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thread/MythreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thread/MythreadTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thread/MythreadTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/classes/com/thread/PoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/classes/com/thread/PoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/demo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/demo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/mulitDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/mulitDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/MulitApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/MulitApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/annotation/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/annotation/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/annotation/Banana.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/annotation/Banana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/annotation/FruitInfoUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/annotation/FruitInfoUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/annotation/FruitRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/annotation/FruitRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/collectionTest/CollectionTest$ArrayListRandomAccessTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/collectionTest/CollectionTest$ArrayListRandomAccessTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/collectionTest/Fail.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/collectionTest/Fail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/collectionTest/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/collectionTest/Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/collectionTest/WeekDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/collectionTest/WeekDay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/config/KjtEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/config/KjtEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/config/datasource/DynamicDataSourceAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/config/datasource/DynamicDataSourceAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/config/datasource/DynamicDataSourceContextHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/config/datasource/DynamicDataSourceContextHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/config/datasource/DynamicDataSourceRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/config/datasource/DynamicDataSourceRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/AdapterTest$Adaptee.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/AdapterTest$Adaptee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/AdapterTest$ClassAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/AdapterTest$ClassAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/AdapterTest$ObjectAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/AdapterTest$ObjectAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BridgeTest$Abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BridgeTest$Abstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BridgeTest$ConcreteImplementorA.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BridgeTest$ConcreteImplementorA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BridgeTest$RefinedAbstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BridgeTest$RefinedAbstraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BuilderTest$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BuilderTest$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BuilderTest$ConcrectBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BuilderTest$ConcrectBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BuilderTest$Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BuilderTest$Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BuilderTest$Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/BuilderTest$Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ChainOfResponsibilityTest$ConcreteHandle1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ChainOfResponsibilityTest$ConcreteHandle1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ChainOfResponsibilityTest$ConcreteHandle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ChainOfResponsibilityTest$ConcreteHandle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ChainOfResponsibilityTest$Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ChainOfResponsibilityTest$Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CommandTest$ConcreteCommand1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CommandTest$ConcreteCommand1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CommandTest$Invoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CommandTest$Invoker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CommandTest$Receiver1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CommandTest$Receiver1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeSafeTest$Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeSafeTest$Composite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeSafeTest$Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeSafeTest$Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeTest$Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeTest$Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeTest$Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeTest$Composite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeTest$Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/CompositeTest$Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/DecoratorTest$ConcreteComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/DecoratorTest$ConcreteComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/DecoratorTest$ConcreteDecorator1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/DecoratorTest$ConcreteDecorator1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/DecoratorTest$Decorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/DecoratorTest$Decorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/DesignTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/DesignTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$Facade.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$Facade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$SubSystem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$SubSystem1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$SubSystem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$SubSystem2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$SubSystem3.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FacadeTest$SubSystem3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest$DetailFactory1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest$DetailFactory1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest$DetailFactory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest$DetailFactory2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest$DetailProduct1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest$DetailProduct1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest$DetailProduct2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest$DetailProduct2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FactoryMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$ConcrectFlyweight1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$ConcrectFlyweight1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$ConcrectFlyweight2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$ConcrectFlyweight2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$Flyweight.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$Flyweight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$FlyweightFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$FlyweightFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$UnsharedConcrectFlyweight.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/FlyweightTest$UnsharedConcrectFlyweight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/InterpretTest$AbstractExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/InterpretTest$AbstractExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/InterpretTest$Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/InterpretTest$Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/InterpretTest$NonterminalExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/InterpretTest$NonterminalExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/IteratorTest$Aggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/IteratorTest$Aggregate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/IteratorTest$ConcreteAggregate.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/IteratorTest$ConcreteAggregate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/IteratorTest$ConcreteIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/IteratorTest$ConcreteIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$Colleague.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$Colleague.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$ConcreteColleague1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$ConcreteColleague1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$ConcreteColleague2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$ConcreteColleague2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$ConcreteMediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$ConcreteMediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$Mediator.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MediatorTest$Mediator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MementoTest$Caretaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MementoTest$Caretaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MementoTest$Memento.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MementoTest$Memento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MementoTest$Originator.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/MementoTest$Originator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ObserveTest$ConcreteObserver1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ObserveTest$ConcreteObserver1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ObserveTest$ConcreteObserver2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ObserveTest$ConcreteObserver2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ObserveTest$ConcreteSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ObserveTest$ConcreteSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ObserveTest$Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ObserveTest$Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ProtoTypeTest$Realizetype.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ProtoTypeTest$Realizetype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ProxyTest$Proxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ProxyTest$Proxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ProxyTest$RealSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ProxyTest$RealSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ProxyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/ProxyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StateTest$ConcreteStateA.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StateTest$ConcreteStateA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StateTest$ConcreteStateB.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StateTest$ConcreteStateB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StateTest$Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StateTest$Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StateTest$State.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StateTest$State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StrategyTest$ConcreteStrategy1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StrategyTest$ConcreteStrategy1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StrategyTest$ConcreteStrategy2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StrategyTest$ConcreteStrategy2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StrategyTest$Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/StrategyTest$Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/TemplateMethodTest$AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/TemplateMethodTest$AbstractClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/TemplateMethodTest$ConcrectClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/TemplateMethodTest$ConcrectClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$ConcreteElement1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$ConcreteElement1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$ConcreteElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$ConcreteElement2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$ConcreteVisitor1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$ConcreteVisitor1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$Element.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$ObjectStructure.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$ObjectStructure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/designPattern/VisitorTest$Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Activity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Advert.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Advert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Area.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/entity/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/htmlTempleToPdf/HtmlGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/htmlTempleToPdf/HtmlGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/htmlTempleToPdf/HtmlToPdf.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/htmlTempleToPdf/HtmlToPdf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/htmlTempleToPdf/NewHtmlToPdf.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/htmlTempleToPdf/NewHtmlToPdf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/htmlTempleToPdf/NewHtmlToPdfBak.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/htmlTempleToPdf/NewHtmlToPdfBak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/dao/ActivityMulitDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/dao/ActivityMulitDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/dao/AdvertMulitDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/dao/AdvertMulitDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/dao/AreaMulitDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/dao/AreaMulitDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/service/ActivityService.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/service/ActivityService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/service/AdvertService.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/service/AdvertService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/service/AreaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/mulit/service/AreaService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/BlackPieces.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/BlackPieces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/ChessBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/ChessBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/ChessPieces.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/ChessPieces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/DataAndMathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/DataAndMathTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/FivePieces.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/FivePieces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/PiecesFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/PiecesFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/PricticeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/PricticeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/UseSubsetMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/UseSubsetMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/WhitePieces.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/prictice/WhitePieces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/DeaultClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/DeaultClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/IntegerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/IntegerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/JsonTest$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/JsonTest$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/JsonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/JsonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/MathTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/MathTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/RadomTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/RadomTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/TerminalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/TerminalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/testTemp/ThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash$Cycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/CarWash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/EnumTestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/EnumTestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Enums.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Enums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Food$Appetizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Food$Appetizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Food$Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Food$Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Food$Dessert.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Food$Dessert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Food$MainCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Food$MainCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Meal.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/Meal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/TypeOfFood.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/eunmTest/TypeOfFood.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/genericity/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thinkinjava/genericity/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/CyclicTest$Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/CyclicTest$Writer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/CyclicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/CyclicTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/MyCallableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/MyCallableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/MyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/MyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/MythreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/MythreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/MythreadTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/MythreadTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/PoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/classes/com/thread/PoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mulitDemo/target/mulitDemo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mulitDemo/target/mulitDemo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/common/target/" />
@@ -32,24 +472,6 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="mimidai@192.168.1.62" type="feb32156:DbDataSourceImpl" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="mimidai@192.168.1.62" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="mimidai@192.168.1.62" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="mimidai: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="mimidai@192.168.1.62" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="mimidai: schema" type="76f4a085:MysqlImplModel$Schema" />
-        <item name="area: table" type="285a2a93:MysqlImplModel$Table" />
-      </path>
     </expand>
     <select />
   </component>
@@ -58,88 +480,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/thread/DeadLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/thread/MyCallableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/thread/MythreadTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="367" lean-forward="true" selection-start-line="367" selection-end-line="367" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/Callable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java">
+        <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/Runnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="458">
+              <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.11/druid-1.0.11-sources.jar!/com/alibaba/druid/pool/DruidDataSourceFactory.java">
+        <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="185" selection-start-line="185" selection-end-line="185" />
+            <state relative-caret-position="275">
+              <caret line="166" column="21" lean-forward="true" selection-start-line="166" selection-start-column="21" selection-end-line="166" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceRegister.java">
+        <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="133" column="71" selection-start-line="133" selection-start-column="71" selection-end-line="133" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="292">
+              <caret line="1829" column="32" selection-start-line="1829" selection-start-column="17" selection-end-line="1829" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceContextHolder.java">
+        <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/locks/Lock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="649">
+              <caret line="355" column="9" lean-forward="true" selection-start-line="355" selection-start-column="9" selection-end-line="355" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceAspect.java">
+        <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/locks/Condition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mulitDemo/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+            <state relative-caret-position="-6078">
+              <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -151,106 +577,106 @@
       <list>
         <option value="FxmlFile" />
         <option value="Kotlin File" />
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindBugs-IDEA-Workspace">
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>user_info_check</find>
-      <find>l</find>
-      <find>slf4j</find>
-      <find>DateUtils</find>
-      <find>lang3</find>
-      <find>fastjson</find>
-      <find>dom4j</find>
-      <find>http</find>
-      <find>Gson</find>
-      <find>bouncycastle</find>
-      <find>itextpdf</find>
-      <find>JUNIT</find>
-      <find>xhtmlrenderer</find>
-      <find>druid</find>
-      <find>freemarker</find>
-      <find>MaFuxin</find>
-      <find>lombok</find>
-      <find>junit</find>
-      <find>inheritedJdk</find>
-      <find>java.version</find>
-      <find>basePackages</find>
-      <find>java.lang.ClassNotFoundException</find>
-      <find>mybati</find>
-      <find>classpath</find>
-      <find>getProperty</find>
-      <find>binder</find>
-      <find>RelaxeddefauleDataSourceProperties</find>
-      <find>GsonBuilder</find>
-      <find>gson</find>
-      <find>myba</find>
+      <find>com.google.guava</find>
+      <find>conflict</find>
+      <find>com.google</find>
+      <find>increment</find>
+      <find>conflic</find>
+      <find>openservices</find>
+      <find>redis</find>
+      <find>condition</find>
+      <find>unlo</find>
+      <find>setExclusiveOwnerThread</find>
+      <find>unlock</find>
+      <find>tryRelease</find>
+      <find>release</find>
+      <find>lock(</find>
+      <find>tryLock</find>
+      <find>state</find>
+      <find>lockInterruptibly</find>
+      <find>daysB</find>
+      <find>@FunctionalInterface</find>
+      <find>abstract</find>
+      <find>resize</find>
+      <find>add(</find>
+      <find>System.arraycopy</find>
+      <find>add</find>
+      <find>linkB</find>
+      <find>get(</find>
+      <find>items</find>
+      <find>common</find>
+      <find>newC</find>
+      <find>newCondition</find>
     </findStrings>
     <replaceStrings>
       <replace>get</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/common/src/main/java/utils/DateUtils.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/testTemp/DateTest.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/testTemp/DataTest.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/utils/PdfUtils.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/utils/XMLUtils.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/entity/jsonToJavaTest.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/entity/JsonTest.java" />
-        <option value="$PROJECT_DIR$/common/pom.xml" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/testTemp/StringTest.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/dao/ActivityMapper.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/service/ActivityService.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/config/MyBatisConfig.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/SelfApplication.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/config/SelfApplication.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/designPattern/DecoratorTest.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/config/MyBatisConfig.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/testTemp/HttpTest.java" />
-        <option value="$PROJECT_DIR$/demo/pom.xml" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/Controller/MyTestController.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/dao/AdvertDao.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/entity/Advert.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/arithmetic/SortedAirthmetic.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/thread/CyclicTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/thread/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/mulit/service/AdvertService.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/ThreadLocalTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/ThreadLocalWeakTest.java" />
         <option value="$PROJECT_DIR$/demo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/SelfApplication.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceContextHolder.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSource.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/testTemp/StringTest.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/TargetDataSource.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceAspect.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/service/AreaService.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/dao/ActivityMulitDao.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/dao/AdvertMulitDao.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/dao/AreaMulitDao.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/ServletInitializer.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/mapper/AdvertMapper.xml" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/mapper/ActivityMapper.xml" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/mapper/AreaMapper.xml" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/service/AdvertService.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/service/ActivityService.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/AreaMulitDao.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/AreaMulitDao.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/service/AdvertService.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/resources/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/AreaMulitDao.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/AdvertMulitDao.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/ActivityMulitDao.java" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceRegister.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/service/RedisService.java" />
+        <option value="$PROJECT_DIR$/demo/src/test/java/Mtest.java" />
+        <option value="$PROJECT_DIR$/tree.txt" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/config/RedisCacheAutoConfiguration.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/mulitDemo/pom.xml" />
-        <option value="$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/InterviewTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/SelfApplication.java" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/Service/DisCountService.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/entity/Goods.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/entity/BabyGoods.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/Controller/InterviewTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/test/MyTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/ElevenTwentySeven.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/MyArrary.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/DeadDayTestTwelve.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/TwelveFore.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/ElevenTwentyTwo.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/Twelve.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/testTemp/DateTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/testTemp/Student.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/LambdaThreadTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/LambdaTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/MyLinkList.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/MyQueue.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/MyStack.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/ForkJoinTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/ForkJoinPoolTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/Calculator.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ForLoopCalculator.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ExecutorServiceCalculator.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ForkJoinPoolCalculator.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/StreamCalculator.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/testTemp/StringTest.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/HungrySinglePattern.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/NormalLazySinglePattern.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/ReinForceSinglePattern.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/StaticInnerClassSinglePattern.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/EnumSinglePattern.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/LockSinglePattern.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/DubleCheckSinglePattern.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/BreakSinglePattern.java" />
       </list>
     </option>
   </component>
@@ -268,26 +694,25 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1358" />
-    <option name="y" value="-196" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,16 +720,124 @@
               <item name="self" type="b2602c69:ProjectViewProjectNode" />
               <item name="self" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="singlepattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="self" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="self" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -313,17 +846,18 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566541235308" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mimidai/mimidai-operator-report" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576640344406" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../private/demo/jobOffer" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.45172414" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\IdeaProjects\self\demo\src\test" />
       <recent name="D:\project\IdeaProjects\self\common\src\main\java\utils" />
       <recent name="D:\project\IdeaProjects\self\common\src\main\java" />
     </key>
@@ -331,11 +865,11 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com" />
-      <recent name="com.config.datasource" />
-      <recent name="config" />
-      <recent name="designPattern" />
-      <recent name="annotation" />
+      <recent name="com.designPattern.singlepattern" />
+      <recent name="daytest.Calculator" />
+      <recent name="com.entity" />
+      <recent name="service" />
+      <recent name="com.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\project\IdeaProjects\self\mulitDemo\src\main\resources" />
@@ -357,7 +891,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MulitApplication">
+  <component name="RunManager" selected="JUnit.BreakSinglePattern.SerializableTestFault">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -370,26 +904,87 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BreakSinglePattern.SerializableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testTemp.*" />
+          <option name="PATTERN" value="com.designPattern.singlepattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PACKAGE_NAME" value="testTemp" />
-      <option name="MAIN_CLASS_NAME" value="testTemp.StringTest" />
-      <option name="METHOD_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.designPattern.singlepattern" />
+      <option name="MAIN_CLASS_NAME" value="com.designPattern.singlepattern.BreakSinglePattern" />
+      <option name="METHOD_NAME" value="SerializableTest" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest.mysqlPassword (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BreakSinglePattern.SerializableTestFault" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designPattern.singlepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="com.designPattern.singlepattern" />
+      <option name="MAIN_CLASS_NAME" value="com.designPattern.singlepattern.BreakSinglePattern" />
+      <option name="METHOD_NAME" value="SerializableTestFault" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakSinglePattern.reflectTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designPattern.singlepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="com.designPattern.singlepattern" />
+      <option name="MAIN_CLASS_NAME" value="com.designPattern.singlepattern.BreakSinglePattern" />
+      <option name="METHOD_NAME" value="reflectTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BreakSinglePattern.reflectTestFault" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designPattern.singlepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="com.designPattern.singlepattern" />
+      <option name="MAIN_CLASS_NAME" value="com.designPattern.singlepattern.BreakSinglePattern" />
+      <option name="METHOD_NAME" value="reflectTestFault" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.lowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -401,27 +996,7 @@
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="PACKAGE_NAME" value="com.testTemp" />
       <option name="MAIN_CLASS_NAME" value="com.testTemp.StringTest" />
-      <option name="METHOD_NAME" value="mysqlPassword" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest.mysqlPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="self" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testTemp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="PACKAGE_NAME" value="testTemp" />
-      <option name="MAIN_CLASS_NAME" value="testTemp.StringTest" />
-      <option name="METHOD_NAME" value="mysqlPassword" />
+      <option name="METHOD_NAME" value="lowerTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -437,45 +1012,6 @@
       <option name="METHOD_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MulitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="mulitDemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mulit.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.MulitApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelfApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="config.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="config.SelfApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelfApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.SelfApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -498,19 +1034,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StringTest.mysqlPassword" />
-      <item itemvalue="JUnit.StringTest" />
-      <item itemvalue="JUnit.StringTest.mysqlPassword (1)" />
-      <item itemvalue="Spring Boot.SelfApplication" />
-      <item itemvalue="Spring Boot.MulitApplication" />
+      <item itemvalue="JUnit.StringTest.lowerTest" />
+      <item itemvalue="JUnit.BreakSinglePattern.reflectTest" />
+      <item itemvalue="JUnit.BreakSinglePattern.SerializableTest" />
+      <item itemvalue="JUnit.BreakSinglePattern.reflectTestFault" />
+      <item itemvalue="JUnit.BreakSinglePattern.SerializableTestFault" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MulitApplication" />
-        <item itemvalue="JUnit.StringTest.mysqlPassword (1)" />
-        <item itemvalue="Spring Boot.SelfApplication" />
-        <item itemvalue="JUnit.StringTest" />
-        <item itemvalue="JUnit.StringTest.mysqlPassword" />
+        <item itemvalue="JUnit.BreakSinglePattern.SerializableTestFault" />
+        <item itemvalue="JUnit.BreakSinglePattern.reflectTestFault" />
+        <item itemvalue="JUnit.BreakSinglePattern.reflectTest" />
+        <item itemvalue="JUnit.BreakSinglePattern.SerializableTest" />
+        <item itemvalue="JUnit.StringTest.lowerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -760,44 +1296,89 @@
       <workItem from="1566272763716" duration="4522000" />
       <workItem from="1566382763783" duration="431000" />
       <workItem from="1566439991971" duration="8634000" />
-      <workItem from="1566532323573" duration="2963000" />
+      <workItem from="1566532323573" duration="3555000" />
+      <workItem from="1566786183658" duration="12248000" />
+      <workItem from="1567047480336" duration="2491000" />
+      <workItem from="1567130968930" duration="624000" />
+      <workItem from="1567136701138" duration="1309000" />
+      <workItem from="1567406791072" duration="3133000" />
+      <workItem from="1567483395535" duration="593000" />
+      <workItem from="1567560688712" duration="1228000" />
+      <workItem from="1567647205586" duration="4371000" />
+      <workItem from="1567993086048" duration="596000" />
+      <workItem from="1568277641713" duration="1099000" />
+      <workItem from="1568614878171" duration="3302000" />
+      <workItem from="1569218284318" duration="1446000" />
+      <workItem from="1569309987646" duration="590000" />
+      <workItem from="1569490571400" duration="650000" />
+      <workItem from="1569806852306" duration="723000" />
+      <workItem from="1570068963213" duration="1208000" />
+      <workItem from="1570514091942" duration="8864000" />
+      <workItem from="1570844001312" duration="1251000" />
+      <workItem from="1571017395634" duration="5918000" />
+      <workItem from="1571102930132" duration="9104000" />
+      <workItem from="1571386955235" duration="824000" />
+      <workItem from="1571625985921" duration="9105000" />
+      <workItem from="1571967515171" duration="1316000" />
+      <workItem from="1572226725758" duration="1288000" />
+      <workItem from="1572229806942" duration="1736000" />
+      <workItem from="1572407477115" duration="5709000" />
+      <workItem from="1572511726189" duration="8833000" />
+      <workItem from="1572839206562" duration="15880000" />
+      <workItem from="1573021188229" duration="19803000" />
+      <workItem from="1573530197854" duration="4691000" />
+      <workItem from="1573696920420" duration="15253000" />
+      <workItem from="1573877708386" duration="575000" />
+      <workItem from="1574129029325" duration="31355000" />
+      <workItem from="1574244350577" duration="23754000" />
+      <workItem from="1574646962374" duration="47763000" />
+      <workItem from="1575251747690" duration="25225000" />
+      <workItem from="1575453942987" duration="632000" />
+      <workItem from="1575458306137" duration="23190000" />
+      <workItem from="1575862191055" duration="24418000" />
+      <workItem from="1576059288853" duration="2827000" />
+      <workItem from="1576073003900" duration="675000" />
+      <workItem from="1576207053804" duration="9221000" />
+      <workItem from="1576463672044" duration="5127000" />
+      <workItem from="1576547798398" duration="11043000" />
+      <workItem from="1576634060666" duration="3494000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringTest_splitTest - 2019.08.14 at 15h 02m 56s.xml">
-      <configuration name="StringTest.splitTest" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_reflectTest - 2019.12.17 at 18h 07m 21s.xml">
+      <configuration name="BreakSinglePattern.reflectTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_splitTest - 2019.08.14 at 15h 05m 45s.xml">
-      <configuration name="StringTest.splitTest" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_reflectTest - 2019.12.17 at 18h 08m 51s.xml">
+      <configuration name="BreakSinglePattern.reflectTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_mysqlPassword - 2019.08.14 at 15h 10m 42s.xml">
-      <configuration name="StringTest.mysqlPassword" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_reflectTest - 2019.12.17 at 19h 10m 25s.xml">
+      <configuration name="BreakSinglePattern.reflectTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_mysqlPassword - 2019.08.14 at 15h 11m 47s.xml">
-      <configuration name="StringTest.mysqlPassword" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_reflectTest - 2019.12.17 at 19h 11m 57s.xml">
+      <configuration name="BreakSinglePattern.reflectTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_splitTest - 2019.08.14 at 15h 12m 44s.xml">
-      <configuration name="StringTest.splitTest" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_SerializableTest - 2019.12.17 at 19h 24m 06s.xml">
+      <configuration name="BreakSinglePattern.SerializableTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest - 2019.08.14 at 15h 13m 43s.xml">
-      <configuration name="StringTest" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_SerializableTest - 2019.12.17 at 19h 24m 58s.xml">
+      <configuration name="BreakSinglePattern.SerializableTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_splitTest - 2019.08.14 at 15h 13m 54s.xml">
-      <configuration name="StringTest.splitTest" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_SerializableTest - 2019.12.17 at 19h 27m 58s.xml">
+      <configuration name="BreakSinglePattern.SerializableTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_mysqlPassword - 2019.08.14 at 16h 16m 03s.xml">
-      <configuration name="StringTest.mysqlPassword" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_reflectTest - 2019.12.17 at 19h 35m 44s.xml">
+      <configuration name="BreakSinglePattern.reflectTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest - 2019.08.14 at 16h 16m 16s.xml">
-      <configuration name="StringTest" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_reflectTestFault - 2019.12.17 at 19h 37m 01s.xml">
+      <configuration name="BreakSinglePattern.reflectTestFault" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_mysqlPassword_(1) - 2019.08.20 at 11h 48m 34s.xml">
-      <configuration name="StringTest.mysqlPassword (1)" configurationId="JUnit" />
+    <history-entry file="BreakSinglePattern_SerializableTestFault - 2019.12.17 at 19h 38m 55s.xml">
+      <configuration name="BreakSinglePattern.SerializableTestFault" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="653074000" />
+    <option name="totallyTimeSpent" value="1008151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -809,9 +1390,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-196" width="1936" height="1066" extended-state="6" />
+    <frame x="1358" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24106666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20042644" />
       <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -819,38 +1400,41 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32781458" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.7560706" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6699779" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4563536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6685083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289183" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3281768" />
       <window_info anchor="bottom" id="Tail" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32781458" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32928178" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3281768" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.30573952" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.30276242" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="14" weight="0.3388521" />
       <window_info active="true" anchor="bottom" id="Inspection Results" order="15" visible="true" weight="0.5" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="16" weight="0.3290461" />
-      <window_info anchor="bottom" id="Spring" order="17" />
+      <window_info anchor="bottom" id="Spring" order="17" weight="0.32928178" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="18" />
+      <window_info anchor="bottom" id="Java Enterprise" order="19" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2496" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.3296" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32942432" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.3296" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32906666" />
       <window_info anchor="right" id="Key Promoter X" order="10" weight="0.3296" />
       <window_info anchor="right" id="Code Iris" order="11" weight="0.4592" />
       <window_info anchor="right" id="Mybatis datasource" order="12" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="13" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -914,401 +1498,433 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/com/leetcode/Solution191105.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/daytest/ElevenTwentyTwo.java</url>
+          <line>211</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/daytest/ElevenTwentySeven.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/daytest/MyArrary.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/daytest/MyLinkList.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo/src/main/java/daytest/MyStack.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/DecoratorTest.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="374">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/AdapterTest.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-379">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="176">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/collectionTest/CollectionTest.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/Optional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="-1430">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.3.RELEASE/spring-boot-autoconfigure-2.1.3.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceProperties.class">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="44">
+          <caret line="494" column="47" lean-forward="true" selection-start-line="494" selection-start-column="47" selection-end-line="494" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/testTemp/HttpTest.java" />
-    <entry file="file://$PROJECT_DIR$/common/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="137">
+          <caret line="407" column="24" selection-start-line="407" selection-start-column="8" selection-end-line="407" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/Controller/MyTestController.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/reflect/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="-1100">
+          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/MyLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="128" selection-start-line="128" selection-end-line="128" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/dao/AdvertDao.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="3234">
+          <caret line="180" column="12" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="162" column="18" selection-start-line="162" selection-start-column="18" selection-end-line="162" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" selection-start-line="62" selection-end-line="73" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="57" column="50" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11330">
+          <caret line="554" column="71" selection-start-line="554" selection-start-column="12" selection-end-line="554" selection-end-column="71" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#15878#15879#0" expanded="true" />
+            <element signature="e#15927#15928#0" expanded="true" />
+            <element signature="e#16099#16100#0" expanded="true" />
+            <element signature="e#16149#16150#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/service/AdvertService.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/ForkJoinPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="-3674">
+          <caret line="167" column="19" lean-forward="true" selection-start-line="167" selection-start-column="19" selection-end-line="167" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/entity/Advert.java">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/ForkJoinPoolTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="154">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/config/MyBatisConfig.java">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/LambdaThreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
-      <provider selected="true" editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1540">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/TwelveFore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1892">
+          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/ThreadLocalWeakTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ForLoopCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ForkJoinPoolCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/StreamCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/Calculator/ExecutorServiceCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/stream/LongStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13684">
+          <caret line="669" column="19" selection-start-line="669" selection-start-column="19" selection-end-line="669" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/stream/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4224">
+          <caret line="192" column="38" selection-start-line="192" selection-start-column="38" selection-end-line="192" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/Twelve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4532">
+          <caret line="208" column="19" selection-start-line="208" selection-start-column="19" selection-end-line="208" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/daytest/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/testTemp/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="619">
+          <caret line="133" column="42" selection-start-line="133" selection-start-column="42" selection-end-line="133" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/dao/ActivityDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10912">
-          <caret line="550" selection-start-line="550" selection-end-line="550" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.5.RELEASE/spring-boot-autoconfigure-2.1.5.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="79" column="32" selection-start-line="79" selection-start-column="32" selection-end-line="79" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/context/properties/bind/BindResult.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/ServletInitializer.java" />
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/TargetDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/mapper/AdvertMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5830">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/mapper/ActivityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/mapper/AreaMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/dao/AreaDao.java">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/HungrySinglePattern.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/mulit/service/AreaService.java">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/DubleCheckSinglePattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="792">
+          <caret line="36" column="9" selection-start-line="32" selection-start-column="4" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/SelfApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="33" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/service/AdvertService.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="36" selection-start-line="36" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/io/Serializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3190">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/StaticInnerClassSinglePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/EnumSinglePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/LockSinglePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/NormalLazySinglePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="2166" column="48" selection-start-line="2166" selection-start-column="37" selection-end-line="2166" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="390" column="13" selection-start-line="390" selection-start-column="13" selection-end-line="390" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/designPattern/singlepattern/BreakSinglePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/service/AreaService.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/locks/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6078">
+          <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="355" column="9" lean-forward="true" selection-start-line="355" selection-start-column="9" selection-end-line="355" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="166" column="21" lean-forward="true" selection-start-line="166" selection-start-column="21" selection-end-line="166" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="1829" column="32" selection-start-line="1829" selection-start-column="17" selection-end-line="1829" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/thread/DeadLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/service/ActivityService.java">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/thread/MyCallableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/mybatis-config.xml">
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/thread/MythreadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="132">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/mapper/ActivityMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/AreaMulitDao.java">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="4" selection-start-line="12" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="262">
+          <caret line="367" lean-forward="true" selection-start-line="367" selection-end-line="367" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/mapper/AreaMapper.xml">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/util/concurrent/Callable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="528">
+          <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/mapper/AdvertMapper.xml">
+    <entry file="jar://D:/soft/Java/jdk1.8.0_31/src.zip!/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/AdvertMulitDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/mulit/dao/ActivityMulitDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/WebApplicationType.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar!/org/springframework/util/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar!/org/springframework/util/ClassUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="770" selection-start-line="770" selection-end-line="770" />
-          <folding>
-            <element signature="e#4909#4910#0" expanded="true" />
-            <element signature="e#4967#4968#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/druid/1.0.11/druid-1.0.11-sources.jar!/com/alibaba/druid/pool/DruidDataSourceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="185" selection-start-line="185" selection-end-line="185" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceContextHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/config/datasource/DynamicDataSourceRegister.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="133" column="71" selection-start-line="133" selection-start-column="71" selection-end-line="133" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="37" column="40" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mulitDemo/src/main/java/com/MulitApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="458">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
         </state>
       </provider>
     </entry>

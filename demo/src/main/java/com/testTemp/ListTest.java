@@ -152,4 +152,19 @@ public class ListTest {
         System.out.println(terminalInfo.getMerchant_custom());
         System.out.println(JSONObject.toJSONString(terminalInfo));
     }
+
+    @Test
+    public void listTets(){
+        List<Integer> set = new ArrayList<>();
+        set.add(1);
+        set.add(2);
+        set.add(3);
+        Iterator iterator = set.iterator();
+        while (iterator.hasNext()){
+            System.out.println(iterator.next());
+            set.remove(1);
+        }
+
+    }
+
 }
