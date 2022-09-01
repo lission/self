@@ -39,7 +39,7 @@
         <httpcore.version>4.4.6</httpcore.version>
         <httpclient.version>4.5.3</httpclient.version>
         <bcprov.version>1.46</bcprov.version>
-        <jsoup.version>1.10.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <itextpdf.version>5.5.11</itextpdf.version>
         <xmlworker.version>5.4.1</xmlworker.version>
         <junit.version>4.12</junit.version>
